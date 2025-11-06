@@ -25,4 +25,4 @@ Heute habe ich...
 
 - [x] TryHackMe CS-basics course
 - [x] Praktikumsuche ca. 20min
-- [ ] mini alarm clock
+- [x] pomodoro timer
