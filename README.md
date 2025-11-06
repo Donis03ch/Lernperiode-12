@@ -15,8 +15,14 @@ Heute habe ich...
 
 ## Arbeitspakete für 24.10.2025
 
-- [ ] TryHackMe CS-basics course
-- [ ] Praktikumsuche ca. 20min
+- [x] TryHackMe CS-basics course
+- [x] Praktikumsuche ca. 20min
 - [ ] ...
 
 Heute habe ich...
+
+## Arbeitspakete für 31.10.2025
+
+- [x] TryHackMe CS-basics course
+- [x] Praktikumsuche ca. 20min
+- [ ] mini alarm clock
