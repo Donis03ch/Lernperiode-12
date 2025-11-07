@@ -26,3 +26,9 @@ Heute habe ich...
 - [x] TryHackMe CS-basics course
 - [x] Praktikumsuche ca. 20min
 - [x] pomodoro timer
+
+## Arbeitspakete für 07.11.2025
+
+- [ ] TryHackMe CS-basics course
+- [x] Praktikumsuche ca. 20min
+- [x] pomodoro timer in .NET MAUI
