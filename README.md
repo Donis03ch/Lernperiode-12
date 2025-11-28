@@ -35,7 +35,13 @@ Heute habe ich...
 
 ## Arbeitspakete für 14.11.2025
 
+- [x] TryHackMe CS-basics course
+- [x] Praktikumsuche ca. 60min
+- [ ] ...
+
+
+## Arbeitspakete für 21.11.2025
+
 - [ ] TryHackMe CS-basics course
 - [ ] Praktikumsuche ca. 20min
 - [ ] ...
-
