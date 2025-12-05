@@ -49,5 +49,5 @@ Heute habe ich...
 ## Arbeitspakete für 05.12.2025
 
 - [ ] TryHackMe
-- [ ] Praktikumsuche ca. 40min
-- [ ] M323
+- [x] Praktikumsuche ca. 40min
+- [x] M323
