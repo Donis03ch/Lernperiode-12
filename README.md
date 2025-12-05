@@ -45,3 +45,9 @@ Heute habe ich...
 - [ ] TryHackMe CS-basics course
 - [ ] Praktikumsuche ca. 20min
 - [ ] ...
+
+## Arbeitspakete für 05.12.2025
+
+- [ ] TryHackMe
+- [ ] Praktikumsuche ca. 40min
+- [ ] ...
